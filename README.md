@@ -27,11 +27,11 @@ I’m skilled at writing clean code, debugging complex issues, and supporting cr
 # Examples
 You can keep this section for stuff from in-class demos or your other work, or remove it. 
 
-## Assignment: [Visualizing overnment Debt](https://docs.google.com/document/d/18CzrOcL2Odi-c4bULJAGIloIEvDMdLkqJU4LuR-_ZJ0/edit?usp=sharing)
+## Assignment: [Data visualization critique #1](https://docs.google.com/document/d/18CzrOcL2Odi-c4bULJAGIloIEvDMdLkqJU4LuR-_ZJ0/edit?usp=sharing)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
 
 ## Assignment 3&4: [Critique by Design](critique-by-design)
-For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`.  
+For this assignment, make sure you set up and link to a new page. This page is linking to a new Markdown document called `critique-by-design.md`.  
 
 ## Final project
 Here it might be helpful to include a high-level description of your final project. 
