@@ -11,27 +11,23 @@ It's always helpful to keep track of your web URL.  Consider putting that somewh
 This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
 
 # About me
-Hi!  I really like data.  And I like visualizations.  So I guess you can say that I like data visualizations!
+Hi!  I am Medha! I am a MISM 16 student here at Heinz College. As a Software Engineer, I specialize in building scalable and user-centric applications. With hands-on experience in Spring Boot, React JS, and Python, I've delivered multiple full stack solutions — from automating manual work orders to building migration applications that scale with growing customer needs. I've created interactive Splunk dashboards to monitor job processing in real-time, helping teams respond faster and smarter.
+
+I’m skilled at writing clean code, debugging complex issues, and supporting critical systems. I stay adaptable under changing circumstances and thrive in team-driven, fast-paced environments. 
 
 # What I hope to learn
-All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
 
-1. List item #1
-2. List item #2
-3. List item #3
+1. Data visualisation 
+2. Effectively communicating the story of data 
+3. I am planning to take up Software Engineer and Data analyst roles after graduation
 
-or...
-
-- List item #1
-- List item #2
-- List item #3
 
 # Portfolio
 
 # Examples
 You can keep this section for stuff from in-class demos or your other work, or remove it. 
 
-## Assignment: [Visualizing overnment Debt](visualizing-government-debt)
+## Assignment: [Visualizing overnment Debt](https://docs.google.com/document/d/18CzrOcL2Odi-c4bULJAGIloIEvDMdLkqJU4LuR-_ZJ0/edit?usp=sharing)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
 
 ## Assignment 3&4: [Critique by Design](critique-by-design)
