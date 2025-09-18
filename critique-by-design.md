@@ -36,7 +36,13 @@ While the current visualization presents the information in a structured table, 
 *	The data is not organized in descending order of caffeine content, making comparisons difficult.
 *	The numbers are shown only as text, without visual encoding through shapes or colors, which would make the information quicker and easier to understand.
 ## Step three: Sketch a solution
+In my redesign sketch, I would start by removing redundant details, such as the drink sizes in brackets, to keep the visualization clean and easy to read. My next focus would be on improving clarity by sorting the data and emphasizing the most relevant comparisons. For example, it would be useful to highlight that Costa Coffee consistently offers drinks with higher caffeine content than Starbucks, and ensure this stands out clearly in the visualization.
 
+I’m also excited to experiment with visual encodings that go beyond plain numbers. One idea is to use coffee cup icons whose size or fill level corresponds to the amount of caffeine in each drink. This would provide a more intuitive, engaging way for viewers to grasp differences at a glance. At the same time, I’m considering more conventional approaches such as bar charts, which are excellent for side-by-side comparisons between vendors and drink types.
+
+Following are the initial versions (sketches drawn by hand) of my redesign 
+* ! [Sketch1](high-street-coffee-v1.jpg)
+* ! [Sketch2](high-street-coffee-v2.jpg)
 ## Step four: Test the solution
 
 _Before you conduct your interviews, prepare a simple script.  Use this as a guide and as a way to take notes as you go forward. Come up with your own list of questions you want to ask for the selected visualization. Keep the questions broad so you can get the most value out of your feedback. Then, document answers to your questions here._
