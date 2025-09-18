@@ -9,11 +9,32 @@ _You can include screenshots, sketches or other artifacts with your narrative to
 
 ## Step one: the visualization
 
-_Include link to the original data visualization (or screenshot - make sure to correctly cite your sources, etc.).  Include paragraph or two on why you selected this particular data visualization.  For obvious reasons, the data visualization you select should come from a publicly accessible source._
+https://www.which.co.uk/news/article/caffeine-levels-in-high-street-coffees-vary-significantly-which-finds-ay7cA4G1zh1S
+
+I am a coffee buff, and as soon as I discovered this article on caffeine content, I was drawn to it. When I saw the visualization, it required some effort to go back and forth to understand and compare the numbers - ranking low on intuitiveness and usefulness  (ref. Stephen Few's)
+  
+Include paragraph or two on why you selected this particular data visualization.  For obvious reasons, the data visualization you select should come from a publicly accessible source._
 
 ## Step two: the critique
-_Don't forget to complete the Google Form found on the assignment page.  You can summarize your thoughts here._
+### What Worked Well:
+*	The visualization is clean and uncluttered.
+*	The consistent use of just three colors (blue, black, and white) adds to the simplicity and visual appeal.
+*	The title is aligned with the table’s purpose and stands out with bold styling.
+*	The coffee cup icons add an aesthetic touch that connects well with the theme.
+*	The legend is clear and intuitive, requiring no extra effort to interpret.
+*	(A personal note: the coffee imagery resonates well, perhaps because data feels more engaging when tied to something relatable like coffee.)
+### What Didn’t Work Well:
+*	The numeric values appear scattered without any visible pattern (e.g., increasing or decreasing), which reduces readability.
+*	The drink size in brackets is redundant—this detail could instead be conveyed once in the table header.
+*	The chart doesn’t enable quick comparisons or highlight key takeaways at first glance.
+*	While the title introduces the subject, it doesn’t guide the reader toward a story or insight, leaving them to interpret the data on their own.
+*	The use of “n/a” is ambiguous and may mislead readers into thinking certain drinks lack caffeine altogether, which undermines the chart’s purpose.
 
+The main audience for this visualization is anyone who buys coffee from high-street coffee chains such as Costa and Starbucks. It’s relevant to because everyone would want to know how much caffeine they consume through drinks purchased at these chains. This data warns customers of overconsumption of caffeine. 
+While the current visualization presents the information in a structured table, it is not very effective at telling a clear story because:
+*	The table cells contain too many numbers, which can overwhelm the viewer.
+*	The data is not organized in descending order of caffeine content, making comparisons difficult.
+*	The numbers are shown only as text, without visual encoding through shapes or colors, which would make the information quicker and easier to understand.
 ## Step three: Sketch a solution
 
 ## Step four: Test the solution
