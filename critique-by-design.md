@@ -37,13 +37,13 @@ In my redesign sketch, I would start by removing redundant details, such as the 
 I’m also excited to experiment with visual encodings that go beyond plain numbers. One idea is to use coffee cup icons whose size or fill level corresponds to the amount of caffeine in each drink. This would provide a more intuitive, engaging way for viewers to grasp differences at a glance. At the same time, I’m considering more conventional approaches such as bar charts, which are excellent for side-by-side comparisons between vendors and drink types.
 
 Following are the initial versions (sketches drawn by hand) of my redesign 
-* ! [Sketch1 - use of cups](high-street-coffee-v1.jpg)
+* [Sketch1 - use of cups](high-street-coffee-v1.jpg)
   The idea here was to give viewers a clear idea of what the data is. So I tried to make cups of equal size and filling it with proportionate amount of red color - which indicates the amount of caffeine in mg (relative scale)
-* ! [Sketch2 - hand sketched bar graph](high-street-coffee-v2.jpg)
+* [Sketch2 - hand sketched bar graph](high-street-coffee-v2.jpg)
   I wasn't convinced with the above sketch because the scale would be inaccurate. So I decided to try traditional bar charts and I think that worked out really well.
 
 The bar graph looked really neat, so I tried to use grouped bar graph next. I decided to get feedback at this point.
-* ! [Final bar graph - Datawrapper](Screenshot 2025-09-17 203019.png)
+* [Final bar graph - Datawrapper](redesign_bar_1.png)
 ## Step four: Test the solution
 
 Questions to ask: 
@@ -74,7 +74,7 @@ After interviewing 3–4 peers, I took time to reflect on their feedback and ide
 * The time required to interpret the graph was another key issue. Viewers found it difficult to quickly grasp the insights, prompting me to rethink the design for improved clarity and faster comprehension.
 
 * I experimented with a grouped bar chart in Excel (image below) using high-contrast colors, but ultimately chose not to pursue this approach. The colors appeared too bright and visually overwhelming, which distracted from the main narrative rather than supporting it
-* ! [Excel viz](Screenshot 2025-09-17 203334.png)
+* [Excel viz](redesign_bar_2.png)
   
 Upon further thought and consideration, I also made the decision to narrow the focus of the visualization. Instead of comparing both Single Shot Espresso and Cappuccino, I chose to highlight just Cappuccino. This allowed me to better emphasize the central insight — that Costa Coffee's Cappuccino has a caffeine-to-drink-size ratio of 0.92, which is exceptionally high for a single cappuccino and worth drawing attention to.
 
