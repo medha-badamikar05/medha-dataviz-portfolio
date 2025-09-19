@@ -33,6 +33,7 @@ While the current visualization presents the information in a structured table, 
 *	The table cells contain too many numbers, which can overwhelm the viewer.
 *	The data is not organized in descending order of caffeine content, making comparisons difficult.
 *	The numbers are shown only as text, without visual encoding through shapes or colors, which would make the information quicker and easier to understand.
+  
 ## Step three: Sketch a solution
 In my redesign sketch, I would start by removing redundant details, such as the drink sizes in brackets, to keep the visualization clean and easy to read. My next focus would be on improving clarity by sorting the data and emphasizing the most relevant comparisons. For example, it would be useful to highlight that Costa Coffee consistently offers drinks with higher caffeine content than Starbucks, and ensure this stands out clearly in the visualization.
 
