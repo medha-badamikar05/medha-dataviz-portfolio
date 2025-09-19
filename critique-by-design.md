@@ -1,4 +1,4 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](README.md) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # MAKEOVER MONDAY ASSIGNMENT - CRITIQUE BY DESIGN
 
@@ -47,6 +47,7 @@ Following are the initial versions (sketches drawn by hand) of my redesign
 
 The bar graph looked really neat, so I tried to use grouped bar graph next. I decided to get feedback at this point.
 * [Final bar graph - Datawrapper](redesign_bar_1.png)
+
 ## Step four: Test the solution
 
 Questions to ask: 
