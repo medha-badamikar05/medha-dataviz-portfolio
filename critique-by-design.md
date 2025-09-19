@@ -1,6 +1,6 @@
 | [home page](README.md) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# MAKEOVER MONDAY ASSIGNMENT - CRITIQUE BY DESIGN
+# MAKEOVER MONDAY - HIGH STREET COFFEE CAFFEINE CONTENT
 
 ## Step one: the visualization
 
