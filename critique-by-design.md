@@ -113,5 +113,25 @@ vizElement.parentNode.insertBefore(scriptElement, vizElement);
 Good charts : the HBR guide to making smarter, more persuasive data visualizations  Scott Berinato: Chapter 2 (When the chart hits our eyes)
 
 ## AI acknowledgements
-I used AI (Claude AI) to review my redesign and it suggested me to add a reference line and tooltip for the reference line, which I incorporated
+I used AI (Claude AI) to review my redesign and it responded as follows:
+
+Looking at this horizontal bar chart, here's what I see:
+
+**What it is:** This appears to be a comparison of caffeine content in cappuccinos from different coffee chains, with Costa having dramatically higher caffeine levels than the others.
+
+**What it's telling me:** Costa cappuccinos contain roughly 320-330mg of caffeine, which is more than double any other chain shown. Greggs and Pret are in the middle range (around 180-200mg), while Caffè Nero and Starbucks have significantly lower caffeine content (around 100-120mg).
+
+**What I find surprising/confusing:**
+- Costa's caffeine level seems extremely high - that's approaching the daily recommended limit in a single drink
+- The massive gap between Costa and everyone else makes me wonder if there's a measurement error or if Costa uses a very different brewing method/bean type
+- No error bars or methodology explanation
+
+**Intended audience:** Likely health-conscious consumers, coffee enthusiasts, or people who need to monitor caffeine intake for medical reasons. Could also be for regulatory/consumer advocacy purposes.
+
+**What I'd change:**
+- Add methodology notes (how was this measured? same cup sizes?)
+- Include confidence intervals or sample sizes
+- Consider adding a reference line for daily recommended caffeine limits
+- Maybe add the actual numerical values on the bars
+- Verify Costa's number - it's so dramatically different it raises questions about data accuracy
 
