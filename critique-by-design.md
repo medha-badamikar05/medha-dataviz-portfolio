@@ -74,7 +74,7 @@ After interviewing 3–4 peers, I took time to reflect on their feedback and ide
 * The time required to interpret the graph was another key issue. Viewers found it difficult to quickly grasp the insights, prompting me to rethink the design for improved clarity and faster comprehension.
 
 * I experimented with a grouped bar chart in Excel (image below) using high-contrast colors, but ultimately chose not to pursue this approach. The colors appeared too bright and visually overwhelming, which distracted from the main narrative rather than supporting it
-* ![Excel viz] (Screenshot 2025-09-17 203334.png)
+* ! [Excel viz](Screenshot 2025-09-17 203334.png)
   
 Upon further thought and consideration, I also made the decision to narrow the focus of the visualization. Instead of comparing both Single Shot Espresso and Cappuccino, I chose to highlight just Cappuccino. This allowed me to better emphasize the central insight — that Costa Coffee's Cappuccino has a caffeine-to-drink-size ratio of 0.92, which is exceptionally high for a single cappuccino and worth drawing attention to.
 
