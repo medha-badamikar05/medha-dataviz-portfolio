@@ -4,7 +4,9 @@
 
 ## Step one: the visualization
 
-https://www.which.co.uk/news/article/caffeine-levels-in-high-street-coffees-vary-significantly-which-finds-ay7cA4G1zh1S
+[High street coffee compared](https://www.which.co.uk/news/article/caffeine-levels-in-high-street-coffees-vary-significantly-which-finds-ay7cA4G1zh1S)
+
+[Selected data viz](high-street-original.png)
 
 As a coffee enthusiast, I was naturally intrigued by an article exploring caffeine content across different beverages. The accompanying visualization initially appeared attractive — cleanly laid out in a table format, with a sense of organization. However, I found it difficult to extract insights at a glance. It lacked the intuitive clarity and comparative utility — ranking low on the spectrum of effective visual communication, especially when evaluated through the lens of Stephen Few’s principles - majorly intuitiveness and engagement. 
 It involved some cognitive gymnastics (ref Good Charts text Chapter 2); going back and forth through the numbers. Using a table with caffeine values without graphical hierarchy forces the viewer to manually compare digits — which is slow and error-prone. 
