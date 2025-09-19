@@ -1,6 +1,6 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# MAKEOVER MONDAY ASSIGNMENT - CRITIQUE BY REDESIGN
+# MAKEOVER MONDAY ASSIGNMENT - CRITIQUE BY DESIGN
 
 ## Step one: the visualization
 
@@ -38,9 +38,9 @@ I’m also excited to experiment with visual encodings that go beyond plain numb
 
 Following are the initial versions (sketches drawn by hand) of my redesign 
 * [Sketch1 - use of cups](high-street-coffee-v1.jpg)
-  The idea here was to give viewers a clear idea of what the data is. So I tried to make cups of equal size and filling it with proportionate amount of red color - which indicates the amount of caffeine in mg (relative scale)
+  The goal was to give viewers a clear and intuitive understanding of the data. To achieve this, I used uniform cup icons and filled each one with a proportionate amount of red color to visually represent the caffeine content (in mg) on a relative scale
 * [Sketch2 - hand sketched bar graph](high-street-coffee-v2.jpg)
-  I wasn't convinced with the above sketch because the scale would be inaccurate. So I decided to try traditional bar charts and I think that worked out really well.
+ I wasn’t fully convinced by the cup-based sketch, as the scale lacked precision and could lead to misinterpretation of the actual values. As a result, I decided to explore a more traditional bar chart approach, which offered greater accuracy and clarity.
 
 The bar graph looked really neat, so I tried to use grouped bar graph next. I decided to get feedback at this point.
 * [Final bar graph - Datawrapper](redesign_bar_1.png)
@@ -86,7 +86,8 @@ To elevate clarity and visual appeal, I constructed a bar chart using a range of
 <a href='#'><img alt='COSTA CAPPUCINO CAFFEINE CONTENT HIGHEST ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ca&#47;Caffeine_cont&#47;Costa_coffee_bar_Chart&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' />
 <param name='name' value='Caffeine_cont&#47;Costa_coffee_bar_Chart' />
 <param name='tabs' value='no' /><param name='toolbar' value='yes' />
-<param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ca&#47;Caffeine_cont&#47;Costa_coffee_bar_Chart&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>           <script type='text/javascript'>                    
+<param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ca&#47;Caffeine_cont&#47;Costa_coffee_bar_Chart&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>           
+<script type='text/javascript'>                    
 var divElement = document.getElementById('viz1758239219555');                    
 var vizElement = divElement.getElementsByTagName('object')[0];                    
 vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    
