@@ -1,19 +1,15 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# Title
-Text here...
-
-_For each step below, you should document your progress as you move forward.  In terms of tone, think of the writeup as though you're keeping journal of your step-by-step process.   You should include a any insights you gained from the critique method, and what it led you to think about when considering the redesign.  You should talk about how you moved next to the sketches, and any insights you gleaned from your user feedback.  Document what you changed based on the user feedback in your redesign.  Finally, talk about what your redesigned data visualization shows, why you selected the data visualization you did, and what you attempted to show or do differently._
-
-_You can include screenshots, sketches or other artifacts with your narrative to help tell the story of how you moved through the process.  Again, make sure to avoid including any personally identifying information about your interviewees (don't list full names, etc.).  While this template serves as a guide, make sure to reference the assignment writeup on Canvas for the official guidance.  This template does not include all guidance mentioned on the assignment page._
+# MAKEOVER MONDAY ASSIGNMENT - CRITIQUE BY REDESIGN
 
 ## Step one: the visualization
 
 https://www.which.co.uk/news/article/caffeine-levels-in-high-street-coffees-vary-significantly-which-finds-ay7cA4G1zh1S
 
-I am a coffee buff, and as soon as I discovered this article on caffeine content, I was drawn to it. When I saw the visualization, it required some effort to go back and forth to understand and compare the numbers - ranking low on intuitiveness and usefulness  (ref. Stephen Few's)
-  
-Include paragraph or two on why you selected this particular data visualization.  For obvious reasons, the data visualization you select should come from a publicly accessible source._
+As a coffee enthusiast, I was naturally intrigued by an article exploring caffeine content across different beverages. The accompanying visualization initially appeared attractive — cleanly laid out in a table format, with a sense of organization. However, I found it difficult to extract insights at a glance. It lacked the intuitive clarity and comparative utility — ranking low on the spectrum of effective visual communication, especially when evaluated through the lens of Stephen Few’s principles - majorly intuitiveness and engagement. 
+It involved some cognitive gymnastics (ref Good Charts text Chapter 2); going back and forth through the numbers. Using a table with caffeine values without graphical hierarchy forces the viewer to manually compare digits — which is slow and error-prone. 
+Most critically, the visualization lacked a clear narrative thread — the very element that drew me to it in the first place. Without a guiding message or insight, the chart becomes a static display of data, rather than a meaningful tool for discovery, which is why I decided to redesign this visualization. 
+
 
 ## Step two: the critique
 ### What Worked Well:
@@ -41,13 +37,16 @@ In my redesign sketch, I would start by removing redundant details, such as the 
 I’m also excited to experiment with visual encodings that go beyond plain numbers. One idea is to use coffee cup icons whose size or fill level corresponds to the amount of caffeine in each drink. This would provide a more intuitive, engaging way for viewers to grasp differences at a glance. At the same time, I’m considering more conventional approaches such as bar charts, which are excellent for side-by-side comparisons between vendors and drink types.
 
 Following are the initial versions (sketches drawn by hand) of my redesign 
-* ! [Sketch1](high-street-coffee-v1.jpg)
-* ! [Sketch2](high-street-coffee-v2.jpg)
+* ! [Sketch1 - use of cups](high-street-coffee-v1.jpg)
+  The idea here was to give viewers a clear idea of what the data is. So I tried to make cups of equal size and filling it with proportionate amount of red color - which indicates the amount of caffeine in mg (relative scale)
+* ! [Sketch2 - hand sketched bar graph](high-street-coffee-v2.jpg)
+  I wasn't convinced with the above sketch because the scale would be inaccurate. So I decided to try traditional bar charts and I think that worked out really well.
+
+The bar graph looked really neat, so I tried to use grouped bar graph next. I decided to get feedback at this point.
+* ! [Final bar graph - Datawrapper](Screenshot 2025-09-17 203019.png)
 ## Step four: Test the solution
 
-_Before you conduct your interviews, prepare a simple script.  Use this as a guide and as a way to take notes as you go forward. Come up with your own list of questions you want to ask for the selected visualization. Keep the questions broad so you can get the most value out of your feedback. Then, document answers to your questions here._
-
-Questions to ask (modify these for your own interviews): 
+Questions to ask: 
 
 - Can you tell me what you think this is?
 
@@ -61,26 +60,44 @@ Questions to ask (modify these for your own interviews):
 
 Results: 
 
-_Don't identify or share personally identifiable information (PII) about the people you spoke to._
 
-
-| Question | Interview 1 | Interview 2 |
-|----------|-------------|-------------|
-|          |             |             |
-|          |             |             |
-|          |             |             |
+| Question | Interview 1 | Interview 2 | Interview 3| 
+|----------|-------------|-------------|------------|
+|Can you tell me what you think this is?          |  They asked me what Costa Coffee was :(         |  It compares caffeine content across 5 different coffee chains✅           | Comparison of caffeine content
+| Is there anything you find surprising or confusing?         |     This looks like a Yes/No type of bar graph        |      The grey colour doesn't add meaning - doesn't associate with caffeine       | The grey colour dismisses the single shot espresso category  |
+| Who do you think is the intended audience for this?        |    Coffee lovers         |   People monitoring their coffee intake          | Anyone who drinks coffee |
+| How long did you take to understand what this visualization is about? | More than 30 seconds | 15 seconds | More than 30 seconds |
 
 Synthesis: 
+After interviewing 3–4 peers, I took time to reflect on their feedback and identified a few recurring themes:
+* The usage of grey colour was a primary concern, which almost everyone found unappealing or ineffective. As a result, I decided to eliminate grey from the visual palette.
+* The time required to interpret the graph was another key issue. Viewers found it difficult to quickly grasp the insights, prompting me to rethink the design for improved clarity and faster comprehension.
 
-_What patterns in the feedback emerge?  What did you learn from the feedback?  Based on this feedback, come up with what design changes you think might make the most sense in your final redesign._
+* I experimented with a grouped bar chart in Excel (image below) using high-contrast colors, but ultimately chose not to pursue this approach. The colors appeared too bright and visually overwhelming, which distracted from the main narrative rather than supporting it
+* ![Excel viz] (Screenshot 2025-09-17 203334.png)
+  
+Upon further thought and consideration, I also made the decision to narrow the focus of the visualization. Instead of comparing both Single Shot Espresso and Cappuccino, I chose to highlight just Cappuccino. This allowed me to better emphasize the central insight — that Costa Coffee's Cappuccino has a caffeine-to-drink-size ratio of 0.92, which is exceptionally high for a single cappuccino and worth drawing attention to.
 
 ## Step five: build the solution
 
-_Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. When you're done with the assignment, this page should all the items mentioned in the assignment page on Canvas(a link or screenshot of the original data visualization, documentation explaining your process, a summary of your wireframes and user feedback, your final, redesigned data visualization, etc.)._
+To elevate clarity and visual appeal, I constructed a bar chart using a range of brown hues to create a natural association with coffee. I added a reference line to indicate the recommended daily safe limit for caffeine intake (from the article), helping viewers contextualize the values. The bars were sorted to support quick comparison, and I used a darker shade within the same color palette to highlight Costa Coffee, drawing attention to its significance. Additionally, I included a label on the highlighted bar to display the exact caffeine content, reinforcing the key takeaway visually and numerically.
+
+<div class='tableauPlaceholder' id='viz1758239219555' style='position: relative'><noscript>
+<a href='#'><img alt='COSTA CAPPUCINO CAFFEINE CONTENT HIGHEST ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ca&#47;Caffeine_cont&#47;Costa_coffee_bar_Chart&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' />
+<param name='name' value='Caffeine_cont&#47;Costa_coffee_bar_Chart' />
+<param name='tabs' value='no' /><param name='toolbar' value='yes' />
+<param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ca&#47;Caffeine_cont&#47;Costa_coffee_bar_Chart&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>           <script type='text/javascript'>                    
+var divElement = document.getElementById('viz1758239219555');                    
+var vizElement = divElement.getElementsByTagName('object')[0];                    
+vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    
+var scriptElement = document.createElement('script');                    
+scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
+vizElement.parentNode.insertBefore(scriptElement, vizElement);                
+</script>
 
 ## References
-_List any references you used here._
+Good charts : the HBR guide to making smarter, more persuasive data visualizations  Scott Berinato: Chapter 2 (When the chart hits our eyes)
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+I used AI (Claude AI) to review my redesign and it suggested me to add a reference line and tooltip for the reference line, which I incorporated
 
