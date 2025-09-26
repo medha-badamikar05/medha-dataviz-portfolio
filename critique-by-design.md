@@ -4,7 +4,7 @@
 
 ## Step one: the visualization
 
-[High street coffee compared](https://www.which.co.uk/news/article/caffeine-levels-in-high-street-coffees-vary-significantly-which-finds-ay7cA4G1zh1S)
+<a href = "https://www.which.co.uk/news/article/caffeine-levels-in-high-street-coffees-vary-significantly-which-finds-ay7cA4G1zh1S" target = "_blank">High street coffee compared</a>
 
 [Selected data viz](high-street-original.png)
 
@@ -20,7 +20,7 @@ Most critically, the visualization lacked a clear narrative thread — the very 
 *	The title is aligned with the table’s purpose and stands out with bold styling.
 *	The coffee cup icons add an aesthetic touch that connects well with the theme.
 *	The legend is clear and intuitive, requiring no extra effort to interpret.
-*	(A personal note: the coffee imagery resonates well, perhaps because data feels more engaging when tied to something relatable like coffee.)
+*	A personal note: the coffee imagery resonates well, perhaps because data is personal.
 ### What Didn’t Work Well:
 *	The numeric values appear scattered without any visible pattern (e.g., increasing or decreasing), which reduces readability.
 *	The drink size in brackets is redundant—this detail could instead be conveyed once in the table header.
