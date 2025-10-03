@@ -15,7 +15,7 @@ While airline officials remain the central focus, I also aim for this story to r
 
 
 ## Interview script
-
+I followed an approach similar to the Makeover Monday assignment, where I intentionally provided minimal context for the visualization. Allowing users to interpret it on their own proved to be very effective in capturing their genuine reactions. I focused on key areas of data visualisation as follows:
 
 | Goal | Questions to Ask |
 |------|------------------|
@@ -60,5 +60,6 @@ Good Charts - Chapter 7-8
 [https://news.delta.com/consistent-reliable-rewarding-why-delta-preferred-choice-travelers](https://news.delta.com/consistent-reliable-rewarding-why-delta-preferred-choice-travelers)
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+
+I used AI to rephrase my Shorthand story title and to rephrase my 
 
