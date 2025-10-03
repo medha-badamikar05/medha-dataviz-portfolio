@@ -8,33 +8,31 @@ Text here!
 # User research 
 
 ## Target audience
-> Include your approach to identifying representative individuals, and who you hope to reach with your story. 
+My intended target audience is business officials and analysts within major airlines, such as Delta, who are directly responsible for making decisions around customer satisfaction, operational efficiency, and airport partnerships. Understanding airport satisfaction rankings and passenger experience drivers is particularly valuable to them because these insights help identify which airports are fostering loyalty and which ones may be creating friction in the travel journey.
 
-Text here!
+Although airline officials are my primary audience, I also hope that this story reaches a broader group of stakeholders in the aviation ecosystem, including airport authorities and industry regulators. By learning more about how airport satisfaction varies across mega, large, and medium hubs, airline decision-makers can strengthen their strategies for route planning, customer service improvements, and long-term growth in passenger trust and retention.
+
+
 
 ## Interview script
-> List the goals from your research, and the questions you intend to ask. 
 
-Text here!
 
 | Goal | Questions to Ask |
 |------|------------------|
-|      |                  |
-|      |                  |
-|      |                  |
+|  Clarity, conveying intent   |        Is the title clear? Is the flow of the story clear?      |
+|  Clean design   |    Do you think the wireframes are cluttered?              |
+|  Contextual awareness : Simplicity   |      Did you find it hard to understand or read the charts? Would you improve anything?             |
+|  Persuasion  |        What do you think about the story? Do you think business officials would be engaged in this         |
 
-
-Text here!
 
 ## Interview findings
-> Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
 
-Text here!
+The in-class interviews helped me gather diverse perspectives.
 
 | Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
 |-------------------------|--------------------------------|-------------|-------------|
-| Question you asked here | Insightful feedback            |             |             |
-|                         |                                |             |             |
+|  Is the title clear? Is the flow of the story clear?   |         |             |             |
+|  Did you find it hard to understand or read the charts? Would you improve anything?     |    No, the charts were clear and straightforward. I especially liked that the rankings were easy to compare side by side. If anything, I’d suggest adding color-coding to highlight the top three airports in each category more visually                            |      I didn’t have trouble understanding the charts, but some of the labels felt a missing. It might help to include short explanatory notes under each chart so I don’t have to refer back to the text for context.       |     The information was easy to follow. What could make it even better is including a quick legend or key, so I immediately know what the scores represent without scanning the description below.        |
 |                         |                                |             |             |
 
 
@@ -45,20 +43,12 @@ Text here!
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
+| The labels and legends seem incomplete and missing  | The charts on Datawrapper need to be annotated well with more details |
+| The call to action needs to be improved and should be highlighted     |       Another 2-3 visualizations would be added to  support the problem and work on highlighting the call to action                                                                         |
 |                                          |                                                                                 |
 |                                          |                                                                                 |
-|                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
 
-> ...include any final thoughts you have here. 
 
-Text here!
-
-# Moodboards / personas
-> If you did this optional part, include details here.  Otherwise remove this section
-
-Text here!
 
 ## References
 _List any references you used here._
