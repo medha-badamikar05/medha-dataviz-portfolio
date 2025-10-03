@@ -1,4 +1,4 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](README.md) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Wireframes / storyboards
 
@@ -45,13 +45,12 @@ Text here!
 |------------------------------------------|---------------------------------------------------------------------------------|
 | The labels and legends seem incomplete and missing  | The charts on Datawrapper need to be annotated well with more details |
 | The call to action needs to be improved and should be highlighted     |       Another 2-3 visualizations would be added to  support the problem and work on highlighting the call to action                                                                         |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
+|                        The width of one line chart is high                  |   Width and layout of the charts will be made consistent                                                                              |
 
 
 
 ## References
-_List any references you used here._
+[https://www.jdpower.com/business/press-releases/2025-north-america-airline-satisfaction-study](https://www.jdpower.com/business/press-releases/2025-north-america-airline-satisfaction-study)
 
 ## AI acknowledgements
 _If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
