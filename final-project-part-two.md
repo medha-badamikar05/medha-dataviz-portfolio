@@ -2,8 +2,7 @@
 
 # Wireframes / storyboards
 
-[Link to Shorthand preview]
-(https://preview.shorthand.com/0nblDek9Zbegr2tT/responsive/desktop)
+[Link to Shorthand preview](https://preview.shorthand.com/0nblDek9Zbegr2tT/responsive/desktop)
 
 # User research 
 
